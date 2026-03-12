@@ -1,1 +1,1 @@
-# PrizeHunt-
+# PrizeHunt
